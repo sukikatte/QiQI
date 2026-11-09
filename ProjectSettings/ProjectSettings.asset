@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: 11.5
+  companyName: wangzitong
+  productName: 琦琦的收藏室
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -728,14 +728,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: 11.5
+  metroPackageName: QiQi
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: 11.5
+  metroApplicationDescription: 琦琦的收藏室
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -807,7 +807,7 @@ PlayerSettings:
   cloudProjectId: 16a31c7f-86bf-4bb3-ba3a-44199f6f4a7a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 11.5 2026-11-05_14-20-38
+  projectName: 琦琦的收藏室
   organizationId: unity_851db74e588a1d28481d
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
